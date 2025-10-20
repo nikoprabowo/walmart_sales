@@ -1,0 +1,15 @@
+{
+  "dataset_identifier": "mikhail1681/walmart-sales",
+  "file_path": "Walmart_Sales.csv",
+  "file_exists": false,
+  "file_size": null,
+  "file_sha256": null,
+  "env": {
+    "python": "3.13.4 (tags/v3.13.4:8a526ec, Jun  3 2025, 17:46:04) [MSC v.1943 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26100-SP0",
+    "pandas": "2.3.1",
+    "numpy": "2.3.1",
+    "kagglehub": "0.3.13",
+    "kaggle_client_installed": false
+  }
+}
